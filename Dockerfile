@@ -1,4 +1,4 @@
-# Use an official Node.js runtime as the base image
+# Use an official Node.js runtime as the base image docker-ci
 FROM node:20-alpine
 
 # Set the working directory in the container
